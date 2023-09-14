@@ -6,3 +6,5 @@ jobs:
     docker:
     # Primary container image where all steps run
      - image: swaggerapi/swagger-ui
+    steps:
+      - run: echo "Say hello to YAML!"
