@@ -1,0 +1,10 @@
+host: https://circleci.com/swagger-editor
+endpoint: graphql-unstable
+token: CCIPAT_C832mD7ztnAx3XkqySwWfM_20661210fcceb092a1b9b874fa45b9b05a11adfe
+rest_endpoint: api/v2
+tls_cert: ""
+tls_insecure: false
+orb_publishing:
+    default_namespace: ""
+    default_vcs_provider: ""
+    default_owner: ""
